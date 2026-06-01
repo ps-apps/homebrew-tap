@@ -1,6 +1,6 @@
 cask "cursorshot" do
-  version "0.4.0"
-  sha256 "e1702406478a1569b9fab067ababf4eaf6b67fb900f671a8bca3cc50b600e9dc"
+  version "0.4.1"
+  sha256 "160f8e6abfe88ae1d6aaa79e42e638f0c1c00d06ac64fdd68842aa8e2285b042"
 
   url "https://github.com/ps-apps/CursorShot/releases/download/v#{version}/CursorShot.dmg",
       verified: "github.com/ps-apps/CursorShot/"
